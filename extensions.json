@@ -1,0 +1,23 @@
+[
+  {
+    "id": "example_sentence_1",
+    "name": "초급 단어 예문",
+    "description": "일상 생활에서 자주 쓰이는 초급 단어에 대한 예문을 제공합니다.",
+    "type": "SENTENCE_PACK",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/sentences/beginner.json"
+  },
+  {
+    "id": "quiz_pack_1",
+    "name": "여행 영단어 퀴즈",
+    "description": "공항, 호텔 등 여행 상황별 단어 퀴즈 팩입니다.",
+    "type": "QUIZ_PACK",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/quizzes/travel_words.txt"
+  },
+  {
+    "id": "coming_soon_1",
+    "name": "비즈니스 영단어 퀴즈",
+    "description": "회의, 이메일 등 비즈니스 상황을 위한 단어 퀴즈입니다. (준비중)",
+    "type": "QUIZ_PACK",
+    "url": ""
+  }
+]
